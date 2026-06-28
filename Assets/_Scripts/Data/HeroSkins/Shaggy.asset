@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 814126f5045054e45906e91952f0d8f3, type: 3}
+  m_Name: Shaggy
+  m_EditorClassIdentifier: 
+  <Model>k__BackingField: {fileID: 5022129390421572377, guid: d4f30e533bc148845995ad1ef96a6d3d, type: 3}
+  <Image>k__BackingField: {fileID: 21300000, guid: 01e0aa8dc3bd6d64faeb4f445f671d3a, type: 3}
+  <Price>k__BackingField: 150
+  <SkinType>k__BackingField: 4
